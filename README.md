@@ -22,27 +22,6 @@
 
 ---
 
-## 🤖 AI / AGENTS
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="52"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="52"/>
-</p>
-
-<p align="center">
-  <code>🤗 Hugging Face</code>
-  <code>🧩 PEFT / LoRA</code>
-  <code>📦 GGUF</code>
-</p>
-
-<p align="center">
-  <code>⚡ llama.cpp</code>
-  <code>🔗 n8n</code>
-  <code>🛠️ Agent Tools</code>
-</p>
-
----
 
 ## 💻 CURRENT MOOD
 
