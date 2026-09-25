@@ -1,4 +1,3 @@
-
 # 👋 Zzzzzzzpeng
 
 <p align="center">
@@ -8,6 +7,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="46"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="46"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="46"/>
 </p>
 
@@ -21,6 +21,7 @@
 
 ---
 
+
 ## 💻 CURRENT MOOD
 
 <p align="center">
@@ -29,17 +30,9 @@
 
 <p align="center">
   <i>Everyone said AI would replace coding.</i>
-  <br><br>
+  <br>
   <code>Me: “Cool. I still wanna type.”</code> 😭
 </p>
-
-<br>
-
-<p align="center">
-  <sub>────────────── ✦ ──────────────</sub>
-</p>
-
-<br>
 
 <p align="center">
   <img src="./assets/peng.gif" alt="Peng wanting something on a tablet" width="230"/>
@@ -47,7 +40,7 @@
 
 <p align="center">
   <i>Peng when the AI says “not yet”.</i>
-  <br><br>
+  <br>
   <code>“But I want it nowww...”</code> 🐧📱😭
 </p>
 
@@ -61,11 +54,9 @@
 
 <p align="center">
   <i>Meanwhile, the low-level arc is sitting in the queue.</i>
-  <br><br>
+  <br>
   <code>“Soon™.”</code> 💀
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48"/>
