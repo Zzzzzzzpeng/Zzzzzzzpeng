@@ -1,4 +1,3 @@
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&duration=5000&pause=2500&color=58A6FF&center=true&vCenter=true&width=820&height=80&lines=Muhamad+Arpan+Kurnia"
@@ -8,7 +7,7 @@
 
 <p align="center">
   <sub>
-    <code>Arpan</code>
+    <code>Young Man's within Peng</code>
   </sub>
   <br>
   <sub>
@@ -16,7 +15,7 @@
   </sub>
   <br>
   <sub>
-    <code>Low-Level Systems · Computer Architecture · Machine Learning · Computer-Using AI</code>
+    <code>Low-Level Systems · Reverse Engineering · Computer Architecture · Machine Learning · Computer-Using Agents</code>
   </sub>
 </p>
 
@@ -30,62 +29,67 @@
 
 ---
 
+
 ## About Me
 
-My main technical focus is **understanding computing from the low level up, then using that knowledge to build AI systems that can operate computers on their own**.
+I am an Information Systems student interested in understanding computing from the system level upwards, with a particular focus on **low-level computing, Linux, computer architecture, hardware, security, and artificial intelligence**.
 
-I work with **C, C++, Assembly, Bash, Lua, Python, and systems tooling** to explore how software interacts with memory, processes, system calls, operating-system interfaces, and computer architecture. I am interested in understanding what is happening underneath the abstractions rather than relying entirely on them.
+My current interests include **C, C++, Assembly, Bash, Lua, and Python**, with an emphasis on understanding memory, processes, system calls, operating-system interfaces, debugging, and how software interacts with the underlying machine.
 
-I am also exploring **digital logic, VHDL, SystemVerilog, processor architecture, and hardware-software interaction** to understand how computation is implemented below the software layer.
+I am also exploring **digital logic, VHDL, SystemVerilog, and computer architecture** to understand how computation is represented and implemented at the hardware level, and how hardware and software interact across different abstraction layers.
 
-My main AI direction is **machine learning, computer vision, and Computer-Using Agents (CUAs)**. I am interested in AI systems that can **perceive a computer environment, understand its state, interact with applications, execute tasks, inspect the result, recover from failures, and improve from previous experience**.
+In security, I am interested in **reverse engineering, binary analysis, debugging, low-level security, and network security**. I use tools such as **GDB and radare2** to study program execution, binaries, memory, and system behaviour.
 
-The goal is not simply to make an AI that answers questions. I want to explore systems that can **actually operate an operating system**.
+Alongside systems and security, I explore **machine learning, computer vision, and Computer-Using Agents (CUAs)**, particularly how intelligent systems perceive, interact with, and operate within real computing environments.
 
-A major part of this idea is giving the AI structured knowledge about its own environment: **applications, commands, files, interfaces, workflows, system state, available tools, and operational constraints**. Combined with visual perception, reasoning, automation, and low-level system access, this could allow an agent to understand not only what is visible on the screen, but also what is happening underneath it.
+My broader goal is to understand the relationship between **software, operating systems, computer architecture, hardware, security, and artificial intelligence** rather than treating each area as an isolated field.
 
-I am particularly interested in experimenting with this inside **isolated virtual machines**, where an AI can be given broad control over its own operating environment and learn to configure, use, inspect, and maintain that environment through interaction and feedback.
-
-My broader goal is to connect the layers:
-
-**Low-Level Systems → Computer Architecture → Operating Systems → Machine Learning → Computer Vision → Computer-Using Agents**
-
-The long-term direction is to build **adaptive AI systems that can understand and operate a complete computing environment rather than depending on a fixed application interface**.
 
 ---
+
 
 ## 🧠 Technical Scope
 
 <table width="100%">
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 ### ⚙️ Systems
 
 **C · C++ · Assembly · Bash · Lua · Linux**
 
-Low-level programming, memory, processes, system calls, operating-system interfaces, debugging, automation, and computer architecture.
+Systems programming, memory, processes, system calls, operating-system interfaces, debugging, and automation.
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 ### 🔩 Hardware
 
-**VHDL · SystemVerilog · Digital Logic**
+**Digital Logic · VHDL · SystemVerilog**
 
-Digital design, processor concepts, computational logic, hardware-software interaction, and understanding how computation is implemented physically.
+Digital logic, computer architecture, processor concepts, hardware description, and hardware-software interaction.
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
+
+### 🛡️ Security
+
+**Reverse Engineering · Binary Analysis · Debugging**
+
+Program analysis, binary behaviour, debugging, low-level security concepts, and network security.
+
+</td>
+
+<td width="25%" align="center" valign="top">
 
 ### 🤖 AI & Vision
 
-**Python · OpenCV · Machine Learning**
+**Python · OpenCV · Machine Learning · CUA**
 
-Computer vision, visual perception, intelligent agents, Computer-Using Agents, automation, environment-aware AI, tool use, and adaptive behaviour.
+Computer vision, machine learning, intelligent agents, computer interaction, and environment-aware AI.
 
 </td>
 
@@ -94,7 +98,13 @@ Computer vision, visual perception, intelligent agents, Computer-Using Agents, a
 
 <p align="center">
   <sub>
-    <code>Systems · Architecture · Hardware · Machine Learning · Computer Vision · Computer-Using AI</code>
+    <code>Systems · Architecture · Hardware · Security · Machine Learning · Computer Vision · CUA</code>
+  </sub>
+</p>
+
+<p align="center">
+  <sub>
+    <code>Systems · Architecture · Hardware · Security · Machine Learning · Computer Vision · CUA</code>
   </sub>
 </p>
 
@@ -299,6 +309,7 @@ Computer vision, visual perception, intelligent agents, Computer-Using Agents, a
     <code>BlackArch Linux · bspwm · Neovim · Git · GitHub · CMake · Docker · OpenCV · tmux · Kitty</code>
   </sub>
 </p>
+
 
 ---
 
