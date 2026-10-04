@@ -102,11 +102,7 @@ Computer vision, machine learning, intelligent agents, computer interaction, and
   </sub>
 </p>
 
-<p align="center">
-  <sub>
-    <code>Systems · Architecture · Hardware · Security · Machine Learning · Computer Vision · CUA</code>
-  </sub>
-</p>
+
 
 <p align="center">
   <img
