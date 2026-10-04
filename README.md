@@ -30,22 +30,23 @@
 ---
 
 
+
 ## About Me
 
 My technical interests span **low-level systems, Linux, scripting and automation, computer architecture, hardware, machine learning, and computer vision**.
 
-I work across multiple layers of computing, using **C, C++, Assembly, Bash, Lua, Python, and systems-oriented tooling** to build software, automate workflows, and understand how computation operates at both the software and hardware levels. My systems interests include **memory management, process execution, operating-system interfaces, and computer architecture**, supported by practical work in a Linux environment.
+I work across multiple layers of computing using **C, C++, Assembly, Bash, Lua, Python, and systems tooling** to build software, automate workflows, and understand computation from software to hardware. My systems interests include **memory management, process execution, operating-system interfaces, and computer architecture**.
 
-I am also exploring **digital logic, VHDL, SystemVerilog, and hardware-software interaction** to strengthen my understanding of how software, processors, and hardware systems work together.
+I am also exploring **digital logic, VHDL, SystemVerilog, and hardware-software interaction** to better understand how software, processors, and digital hardware operate together.
 
-My main area of development is **machine learning and computer vision**, with a particular interest in **computer-use AI**. I am interested in intelligent agents that can perceive a Linux desktop through visual information, understand the current system state, interact with applications, execute tasks, evaluate their results, and improve their behaviour through feedback and accumulated experience.
+My main focus is **machine learning and computer vision**, particularly **computer-use AI**. I am interested in agents that can perceive a Linux desktop, understand system state, interact with applications, execute tasks, evaluate results, and adapt their behaviour through feedback and stored experience.
 
-An important part of this direction is **specialised environment knowledge**: giving an AI a structured understanding of a specific computer system, including its applications, workflows, tools, interfaces, files, and operational constraints. I am interested in combining this knowledge with visual perception, reasoning, automation, and configurable behavioural or personality profiles.
+A key part of this direction is **specialised environment knowledge**: giving an AI structured knowledge of a specific computer system, including its applications, workflows, tools, interfaces, files, and operational constraints. I am interested in combining this with **visual perception, reasoning, automation, and configurable agent behaviour**.
 
-My broader goal is to bring these areas together into **practical, adaptive systems that can understand and operate within real computing environments**.
-
+My broader goal is to combine these areas into **practical, adaptive systems that can understand and operate within real computing environments**.
 
 ---
+
 
 
 ## 🧠 Technical Scope
@@ -57,7 +58,7 @@ My broader goal is to bring these areas together into **practical, adaptive syst
 
 ### ⚙️ Systems
 
-**C · C++ · Assembly · Linux**
+**C · C++ · Assembly · Bash · Lua · Linux**
 
 System programming, memory management, process execution, system calls, operating-system interfaces, and computer architecture.
 
@@ -69,7 +70,7 @@ System programming, memory management, process execution, system calls, operatin
 
 **VHDL · SystemVerilog · Digital Logic**
 
-Digital design, hardware description, processor architecture, hardware-software interfaces, and computational implementation.
+Digital design, processor architecture, hardware-software interfaces, and computational implementation.
 
 </td>
 
@@ -79,7 +80,7 @@ Digital design, hardware description, processor architecture, hardware-software 
 
 **Python · OpenCV · Machine Learning**
 
-Computer vision, visual perception, model development, intelligent agents, automation, and computer interaction.
+Computer vision, visual perception, intelligent agents, computer-use AI, automation, environment-aware systems, and adaptive behaviour.
 
 </td>
 
