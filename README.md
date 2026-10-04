@@ -1,217 +1,346 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=6500&pause=3500&color=58A6FF&center=true&vCenter=true&width=720&lines=Hey%2C+I%E2%80%99m+Zzzzzzzpeng"
-    alt="Hey, I'm Zzzzzzzpeng"
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&duration=5000&pause=2500&color=58A6FF&center=true&vCenter=true&width=820&height=80&lines=Muhamad+Arpan+Kurnia"
+    alt="Muhamad Arpan Kurnia"
   />
 </p>
 
 <p align="center">
-  <sub><code>Peng · 21 · Semester 7 · Universitas Terbuka</code></sub>
+  <sub>
+    <code>Arpan</code>
+  </sub>
   <br>
-  <sub><code>Portrait of my future within schizo : este sí da miedo 💀</code></sub>
+  <sub>
+    <code>Semester 7 · Information Systems · Universitas Terbuka</code>
+  </sub>
+  <br>
+  <sub>
+    <code>Low-Level Systems · Computer Architecture · Machine Learning · Computer Vision</code>
+  </sub>
 </p>
 
 <p align="center">
   <img
     src="./assets/typeshit.gif"
-    width="300"
+    width="320"
     alt="Type shit"
   />
 </p>
 
-<p align="center">
-  <sub><code>no deal, innit?</code> 🗿 <code>literal.</code></sub>
-</p>
+---
+
+
+## About Me
+
+My technical interests span **low-level systems, Linux, scripting and automation, computer architecture, hardware, machine learning, and computer vision**.
+
+I work across multiple layers of computing, using **C, C++, Assembly, Bash, Lua, Python, and systems-oriented tooling** to build software, automate workflows, and understand how computation operates at both the software and hardware levels. My systems interests include **memory management, process execution, operating-system interfaces, and computer architecture**, supported by practical work in a Linux environment.
+
+I am also exploring **digital logic, VHDL, SystemVerilog, and hardware-software interaction** to strengthen my understanding of how software, processors, and hardware systems work together.
+
+My main area of development is **machine learning and computer vision**, with a particular interest in **computer-use AI**. I am interested in intelligent agents that can perceive a Linux desktop through visual information, understand the current system state, interact with applications, execute tasks, evaluate their results, and improve their behaviour through feedback and accumulated experience.
+
+An important part of this direction is **specialised environment knowledge**: giving an AI a structured understanding of a specific computer system, including its applications, workflows, tools, interfaces, files, and operational constraints. I am interested in combining this knowledge with visual perception, reasoning, automation, and configurable behavioural or personality profiles.
+
+My broader goal is to bring these areas together into **practical, adaptive systems that can understand and operate within real computing environments**.
+
 
 ---
 
-### 📚 Learning
 
-<p align="center">
-  <sub><code>C</code> &nbsp;&nbsp; ███░░░░░░░ &nbsp;&nbsp; 3%</sub><br>
-  <sub><code>C++</code> &nbsp; ███░░░░░░░ &nbsp;&nbsp; 3%</sub><br>
-  <sub><code>Assembly</code> &nbsp; ██░░░░░░░░ &nbsp;&nbsp; 2%</sub><br>
-  <sub><code>VHDL</code> &nbsp;&nbsp; ██░░░░░░░░ &nbsp;&nbsp; 2%</sub><br>
-  <sub><code>PostgreSQL</code> &nbsp; ██░░░░░░░░ &nbsp;&nbsp; 2%</sub>
-</p>
-
-<p align="center">
-  <sub><code>Progress detected. Skill not found.</code> 💀 <code>cero chill.</code></sub>
-</p>
-
----
+## 🧠 Technical Scope
 
 <table width="100%">
 <tr>
 
 <td width="33%" align="center" valign="top">
 
-### 💻 Languages
+### ⚙️ Systems
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="56" alt="C">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="56" alt="C++">
-<img src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" width="56" alt="Assembly">
-<img src="https://api.iconify.design/vscode-icons/file-type-vhdl.svg" width="56" alt="VHDL">
+**C · C++ · Assembly · Linux**
 
-<p><sub><code>still learning, pero literal.</code></sub></p>
+System programming, memory management, process execution, system calls, operating-system interfaces, and computer architecture.
 
 </td>
 
-<td width="44%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🛠️ Tools
+### 🔩 Hardware
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="56" alt="Neovim">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="56" alt="Arch Linux">
-<img src="https://api.iconify.design/simple-icons/bspwm.svg" width="56" alt="bspwm">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="56" alt="Git">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="56" alt="CMake">
+**VHDL · SystemVerilog · Digital Logic**
 
-<p><sub><code>still tweaking, según yo.</code> 🗿</sub></p>
+Digital design, hardware description, processor architecture, hardware-software interfaces, and computational implementation.
 
 </td>
 
-<td width="23%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🗄️ Database
+### 🤖 AI & Vision
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="56" alt="PostgreSQL">
+**Python · OpenCV · Machine Learning**
 
-<p><sub><code>One more query, y ya.</code> 💀</sub></p>
+Computer vision, visual perception, model development, intelligent agents, automation, and computer interaction.
 
 </td>
 
 </tr>
 </table>
 
----
-
 <p align="center">
-  <strong><code>After all that debugging...</code></strong>
-  <br>
-  <code>It was one typo.</code> 💀
-  <br>
-  <sub><code>qué random.</code></sub>
-</p>
-
-<p align="center">
-  <img
-    src="./assets/powwhenigotbugandfixed.gif"
-    width="460"
-    alt="Bug fixed"
-  />
-</p>
-
----
-
-<p align="center">
-  <strong><code>After hours of suffering...</code></strong>
-  <br>
-  <code>That was the problem?</code> 🗿
-  <br>
-  <sub><code>no puede ser.</code></sub>
+  <sub>
+    <code>Systems · Architecture · Machine Learning · Computer Vision</code>
+  </sub>
 </p>
 
 <p align="center">
   <img
     src="./assets/povwhenigotsolvingtheproblem.gif"
     width="460"
-    alt="Problem solved"
+    alt="Solving a technical problem"
   />
+</p>
+
+<p align="center">
+  <sub>
+    <code>When the abstraction stops being enough, go one layer deeper.</code>
+  </sub>
 </p>
 
 ---
 
-<p align="center">
-  <strong><code>Me: AI, give me the full code.</code></strong>
-  <br>
-  <code>AI: Not yet.</code>
-  <br>
-  <sub><code>qué pereza.</code></sub>
-</p>
+
+## 💻 Languages & Data
 
 <p align="center">
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <img
-    src="./assets/wantitnow.gif"
-    width="500"
-    alt="Want it now"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    width="58"
+    alt="C"
   />
+</a>
+
+<a href="https://isocpp.org/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+    width="58"
+    alt="C++"
+  />
+</a>
+
+<a href="https://www.python.org/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    width="58"
+    alt="Python"
+  />
+</a>
+
+<a href="https://www.lua.org/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
+    width="58"
+    alt="Lua"
+  />
+</a>
+
+<a href="https://www.gnu.org/software/bash/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+    width="58"
+    alt="Bash"
+  />
+</a>
+
+<a href="https://www.postgresql.org/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+    width="58"
+    alt="PostgreSQL"
+  />
+</a>
+
+<a href="https://ziglang.org/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg"
+    width="58"
+    alt="Zig"
+  />
+</a>
+
+<a href="https://yaml.org/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg"
+    width="58"
+    alt="YAML"
+  />
+</a>
+
+<a href="https://www.w3.org/XML/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg"
+    width="58"
+    alt="XML"
+  />
+</a>
+
+<a href="https://www.nasm.us/">
+  <img
+    src="https://api.iconify.design/vscode-icons/file-type-assembly.svg"
+    width="58"
+    alt="Assembly"
+  />
+</a>
+
+<a href="https://vhdl.org/">
+  <img
+    src="https://api.iconify.design/vscode-icons/file-type-vhdl.svg"
+    width="58"
+    alt="VHDL"
+  />
+</a>
+
+<a href="https://www.accellera.org/">
+  <img
+    src="https://api.iconify.design/vscode-icons/file-type-systemverilog.svg"
+    width="58"
+    alt="SystemVerilog"
+  />
+</a>
+
 </p>
 
 <p align="center">
-  <strong><code>Me: I WANT IT NOW.</code> 💀</strong>
-  <br>
-  <sub><code>cero chill.</code></sub>
+  <sub>
+    <code>C · C++ · Python · Lua · Bash · PostgreSQL · Zig · YAML · XML · Assembly · VHDL · SystemVerilog</code>
+  </sub>
 </p>
 
 ---
 
+
+## 🛠️ Tools & Environment
+
 <p align="center">
-  <strong><code>AI: another update.</code></strong>
-  <br>
-  <code>Me: still loading.</code> 💀
-  <br>
-  <sub><code>está cursed.</code></sub>
+<a href="https://blackarch.org/">
+  <img
+    src="./assets/blackarch.png"
+    width="62"
+    alt="BlackArch Linux"
+  />
+</a>
+
+<a href="https://github.com/baskerville/bspwm">
+  <img
+    src="https://api.iconify.design/simple-icons/bspwm.svg"
+    width="62"
+    alt="bspwm"
+  />
+</a>
+
+<a href="https://neovim.io/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
+    width="62"
+    alt="Neovim"
+  />
+</a>
+
+<a href="https://git-scm.com/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    width="62"
+    alt="Git"
+  />
+</a>
+
+<a href="https://github.com/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    width="62"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://cmake.org/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg"
+    width="62"
+    alt="CMake"
+  />
+</a>
+
+<a href="https://www.docker.com/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+    width="62"
+    alt="Docker"
+  />
+</a>
+
+<a href="https://opencv.org/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"
+    width="62"
+    alt="OpenCV"
+  />
+</a>
+
+<a href="https://github.com/tmux/tmux">
+  <img
+    src="https://cdn.simpleicons.org/tmux"
+    width="62"
+    alt="tmux"
+  />
+</a>
+
+<a href="https://github.com/kovidgoyal/kitty">
+  <img
+    src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.png"
+    width="62"
+    alt="Kitty"
+  />
+</a>
+
 </p>
+
+<p align="center">
+  <sub>
+    <code>BlackArch Linux · bspwm · Neovim · Git · GitHub · CMake · Docker · OpenCV · tmux · Kitty</code>
+  </sub>
+</p>
+
+---
 
 <p align="center">
   <img
     src="./assets/povwheniseetheAIgrowthfasterthenmyskills.gif"
     width="460"
-    alt="AI growth"
+    alt="AI progress"
   />
 </p>
+
+<p align="center">
+  <sub>
+    <code>When new models keep dropping, and the cutting-edge ones start giving off serious aura.</code>
+  </sub>
+</p>
+
 
 ---
 
 <p align="center">
-  <strong><code>Me: can you make me smarter?</code></strong>
-  <br>
-  <code>AI: Keep dreaming.</code> 🗿
-  <br>
-  <sub><code>literal, sigue soñando.</code></sub>
-</p>
-
-<p align="center">
   <img
-    src="./assets/ifiwanattobecomesmartedinAIbutaisaydonthope.gif"
+    src="./assets/powwhenigotbugandfixed.gif"
     width="460"
-    alt="AI thinking"
-  />
-</p>
-
----
-
-<p align="center">
-  <strong><code>When I cheat on my darling Linux...</code></strong>
-  <br>
-  <code>Linux: “We're getting a divorce.”</code> 💀
-  <br>
-  <sub><code>ya valió.</code></sub>
-</p>
-
-<p align="center">
-  <img
-    src="./assets/povsystemangry.gif"
-    width="480"
-    alt="System angry"
-  />
-</p>
-
----
-
-<p align="center">
-  <img
-    src="./assets/bulshitthinking.gif"
-    width="580"
-    alt="Thinking"
+    alt="Focused debugging"
   />
 </p>
 
 <p align="center">
-  <strong><code>Semester 7.</code></strong>
-  <br>
-  <code>Thinking about what to think about.</code> 🗿
-  <br>
-  <sub><code>qué rayos.</code></sub>
+  <sub>
+    <code>When you finally see what the system has been hiding.</code>
+  </sub>
 </p>
+
