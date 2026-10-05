@@ -6,335 +6,53 @@
 </p>
 
 <p align="center">
-  <sub>
-    <code>Young Man's within Peng</code>
-  </sub>
+  <sub><code>Semester 7 · Information Systems · Universitas Terbuka</code></sub>
   <br>
-  <sub>
-    <code>Semester 7 · Information Systems · Universitas Terbuka</code>
-  </sub>
-  <br>
-  <sub>
-    <code>Low-Level Systems · Reverse Engineering · Computer Architecture · Machine Learning · Computer-Using Agents</code>
-  </sub>
+  <sub><code>Reverse Engineering · LLM Computer-Using Agents (CUAs)</code></sub>
 </p>
 
 <p align="center">
-  <img
-    src="./assets/typeshit.gif"
-    width="320"
-    alt="Type shit"
-  />
+  <img src="./assets/typeshit.gif" width="320" alt="Typing" />
 </p>
 
 ---
-
 
 ## About Me
 
-I am an Information Systems student interested in understanding computing from the system level upwards, with a particular focus on **low-level computing, Linux, computer architecture, hardware, security, and artificial intelligence**.
+I’m an Information Systems student focused on two areas I want to study deeply: **reverse engineering** and **LLM computer-using agents (CUAs)**.
 
-My current interests include **C, C++, Assembly, Bash, Lua, and Python**, with an emphasis on understanding memory, processes, system calls, operating-system interfaces, debugging, and how software interacts with the underlying machine.
+In **reverse engineering**, I’m interested in understanding how software and systems work by examining their behaviour and internal structure. My learning areas include static and dynamic analysis, executable formats, disassembly and decompilation, control flow, assembly, memory, and debugging. I use **Ghidra**, **GDB**, and **radare2** to explore these topics. Ghidra supports tasks including disassembly, decompilation, debugging, and emulation.
 
-I am also exploring **digital logic, VHDL, SystemVerilog, and computer architecture** to understand how computation is represented and implemented at the hardware level, and how hardware and software interact across different abstraction layers.
+In **LLM-based CUAs**, I’m interested in agents that observe a screen, reason about the current interface, issue mouse or keyboard actions, then inspect the result and decide what to do next. I want to learn about visual grounding, action planning, state tracking, and reliable task completion in desktop applications. Benchmarks such as [OSWorld](https://os-world.github.io/) study agents operating across real computer environments.
 
-In security, I am interested in **reverse engineering, binary analysis, debugging, low-level security, and network security**. I use tools such as **GDB and radare2** to study program execution, binaries, memory, and system behaviour.
+## Areas I’m Learning
 
-Alongside systems and security, I explore **machine learning, computer vision, and Computer-Using Agents (CUAs)**, particularly how intelligent systems perceive, interact with, and operate within real computing environments.
+| Reverse Engineering | LLM Computer-Using Agents |
+| --- | --- |
+| Executable formats and binary structure | Screenshot interpretation and visual grounding |
+| Disassembly, decompilation, and control flow | Mouse and keyboard action planning |
+| Assembly, memory, and debugging | Interface state tracking and result verification |
+| Static and dynamic program analysis | Reliability in real desktop environments |
+| Binary behaviour and program comprehension | Benchmark-based evaluation |
 
-My broader goal is to understand the relationship between **software, operating systems, computer architecture, hardware, security, and artificial intelligence** rather than treating each area as an isolated field.
+## Relevant Languages & Tools
 
+**Languages:** C · C++ · Assembly · Python
 
----
+**Reverse Engineering tools:** [Ghidra](https://github.com/NationalSecurityAgency/ghidra) · GDB · radare2
 
+**LLM / CUA topics:** visual grounding · GUI action planning · interaction loops · task evaluation
 
-## 🧠 Technical Scope
+These are the tools and topics relevant to the two fields I’m pursuing. I’ll add specific frameworks and APIs as I gain hands-on experience with them.
 
-<table width="100%">
-<tr>
+## Further Reading
 
-<td width="25%" align="center" valign="top">
-
-### ⚙️ Systems
-
-**C · C++ · Assembly · Bash · Lua · Linux**
-
-Systems programming, memory, processes, system calls, operating-system interfaces, debugging, and automation.
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### 🔩 Hardware
-
-**Digital Logic · VHDL · SystemVerilog**
-
-Digital logic, computer architecture, processor concepts, hardware description, and hardware-software interaction.
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### 🛡️ Security
-
-**Reverse Engineering · Binary Analysis · Debugging**
-
-Program analysis, binary behaviour, debugging, low-level security concepts, and network security.
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### 🤖 AI & Vision
-
-**Python · OpenCV · Machine Learning · CUA**
-
-Computer vision, machine learning, intelligent agents, computer interaction, and environment-aware AI.
-
-</td>
-
-</tr>
-</table>
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra) — NSA-maintained software reverse-engineering framework.
+- [OpenAI Computer Use guide](https://developers.openai.com/api/docs/guides/tools-computer-use) — a model observes screenshots and operates browser or desktop interfaces through computer-use actions.
+- [OSWorld](https://os-world.github.io/) — benchmark for multimodal agents performing tasks in real computer environments.
 
 <p align="center">
-  <sub>
-    <code>Systems · Architecture · Hardware · Security · Machine Learning · Computer Vision · CUA</code>
-  </sub>
-</p>
-
-
-
-<p align="center">
-  <img
-    src="./assets/povwhenigotsolvingtheproblem.gif"
-    width="460"
-    alt="Solving a technical problem"
-  />
-</p>
-
-<p align="center">
-  <sub>
-    <code>When the abstraction stops being enough, go one layer deeper.</code>
-  </sub>
-</p>
-
----
-
-## 💻 Languages & Data
-
-<p align="center">
-
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-    width="58"
-    alt="C"
-  />
-</a>
-
-<a href="https://isocpp.org/">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-    width="58"
-    alt="C++"
-  />
-</a>
-
-<a href="https://www.python.org/">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    width="58"
-    alt="Python"
-  />
-</a>
-
-<a href="https://www.lua.org/">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
-    width="58"
-    alt="Lua"
-  />
-</a>
-
-<a href="https://www.gnu.org/software/bash/">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
-    width="58"
-    alt="Bash"
-  />
-</a>
-
-<a href="https://www.postgresql.org/">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-    width="58"
-    alt="PostgreSQL"
-  />
-</a>
-
-<a href="https://ziglang.org/">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg"
-    width="58"
-    alt="Zig"
-  />
-</a>
-
-<a href="https://www.nasm.us/">
-  <img
-    src="https://api.iconify.design/vscode-icons/file-type-assembly.svg"
-    width="58"
-    alt="Assembly"
-  />
-</a>
-
-<a href="https://vhdl.org/">
-  <img
-    src="https://api.iconify.design/vscode-icons/file-type-vhdl.svg"
-    width="58"
-    alt="VHDL"
-  />
-</a>
-
-<a href="https://www.accellera.org/">
-  <img
-    src="https://api.iconify.design/vscode-icons/file-type-systemverilog.svg"
-    width="58"
-    alt="SystemVerilog"
-  />
-</a>
-
-</p>
-
-<p align="center">
-  <sub>
-    <code>C · C++ · Python · Lua · Bash · PostgreSQL · Zig · Assembly · VHDL · SystemVerilog</code>
-  </sub>
-</p>
-
----
-
-## 🛠️ Tools & Environment
-
-<p align="center">
-
-<a href="https://blackarch.org/">
-  <img
-    src="./assets/blackarch.png"
-    width="62"
-    alt="BlackArch Linux"
-  />
-</a>
-
-<a href="https://github.com/baskerville/bspwm">
-  <img
-    src="https://api.iconify.design/simple-icons/bspwm.svg"
-    width="62"
-    alt="bspwm"
-  />
-</a>
-
-<a href="https://neovim.io/">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
-    width="62"
-    alt="Neovim"
-  />
-</a>
-
-<a href="https://git-scm.com/">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-    width="62"
-    alt="Git"
-  />
-</a>
-
-<a href="https://github.com/">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-    width="62"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://cmake.org/">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg"
-    width="62"
-    alt="CMake"
-  />
-</a>
-
-<a href="https://www.docker.com/">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-    width="62"
-    alt="Docker"
-  />
-</a>
-
-<a href="https://opencv.org/">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"
-    width="62"
-    alt="OpenCV"
-  />
-</a>
-
-<a href="https://github.com/tmux/tmux">
-  <img
-    src="https://cdn.simpleicons.org/tmux"
-    width="62"
-    alt="tmux"
-  />
-</a>
-
-<a href="https://github.com/kovidgoyal/kitty">
-  <img
-    src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.png"
-    width="62"
-    alt="Kitty"
-  />
-</a>
-
-</p>
-
-<p align="center">
-  <sub>
-    <code>BlackArch Linux · bspwm · Neovim · Git · GitHub · CMake · Docker · OpenCV · tmux · Kitty</code>
-  </sub>
-</p>
-
-
----
-
-<p align="center">
-  <img
-    src="./assets/povwheniseetheAIgrowthfasterthenmyskills.gif"
-    width="460"
-    alt="AI progress"
-  />
-</p>
-
-<p align="center">
-  <sub>
-    <code>When new models keep getting better while I am still figuring out what the previous model actually did.</code>
-  </sub>
-</p>
-
----
-
-<p align="center">
-  <img
-    src="./assets/powwhenigotbugandfixed.gif"
-    width="460"
-    alt="Focused debugging"
-  />
-</p>
-
-<p align="center">
-  <sub>
-    <code>When the bug finally explains itself.</code>
-  </sub>
+  <img src="./assets/povwhenigotbugandfixed.gif" width="460" alt="Focused debugging" />
+  <br>
+  <sub><code>Understand the behavior. Form a hypothesis. Verify it.</code></sub>
 </p>
